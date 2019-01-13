@@ -1,0 +1,28 @@
+{
+  "name": "jquery-es6-module",
+  "version": "1.0.0",
+  "description": "jQuery in ES6 module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProIncubator/jQueryES6Module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProIncubator/jQueryES6Module/issues"
+  },
+  "homepage": "https://github.com/ProIncubator/jQueryES6Module#readme",
+  "devDependencies": {
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
